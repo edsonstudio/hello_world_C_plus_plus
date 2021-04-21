@@ -1,0 +1,1 @@
+## Uma aplicação simples feita em C++ (C plus plus) para exibir na tela a mensagem "Hello World".
