@@ -11,5 +11,7 @@ int main() {
     // prints hello world
     std::cout << "Hello World !! :D\n";
 
+    std::cin.get();     // Equivalente ao método Console.ReadKey() do C#
+
     return 0;
 }
